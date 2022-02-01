@@ -147,7 +147,7 @@ https://github.com/wtg/shuttletracker
 
 ![](../../images/lab3-gitstats-shuttletracker.png)
 
-![](../../images/lab3-gitstats-shuttletracker.png)
+![](../../images/lab3-gource-shuttletracker.png)
 
 ### Gitstats Comments
 The line count is different because gitstats does not count empty lines. There are also some duplicate authors listed with some users having their username and full name listed, so a potential improvement would be to combine these like GitHub does.
