@@ -24,3 +24,5 @@ Discord: alexboz#8446
 [Lab 7](labs/lab-07/report.md)
 
 [Lab 8](labs/lab-08/report.md)
+
+[Lab 9](labs/lab-09/report.md)
